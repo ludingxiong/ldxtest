@@ -1,0 +1,25 @@
+{
+	"status": 1,
+	"data": {
+		"letter_count": 0,
+		"recommend_friend_count": 0,
+		"blog_forward_count": 0,
+		"message_count": 0,
+		"follower_count": 0,
+		"class_dynamic": {
+			"class_dynamic_count": 1,
+			"avatar": "https://b-ssl.duitang.com/uploads/item/201606/20/20160620201118_ZdAah.thumb.48_48_c.jpeg"
+		},
+		"topic_comment_count": 0,
+		"topic_comment_reply_count": 0,
+		"album_favorite_count": 0,
+		"article_favorite_count": 0,
+		"news_feed_count": 8,
+		"album_like_count": 0,
+		"blog_comment_count": 0,
+		"article_like_count": 0,
+		"topic_comment_like_count": 0,
+		"article_comment_count": 0,
+		"blog_like_count": 0
+	}
+}
